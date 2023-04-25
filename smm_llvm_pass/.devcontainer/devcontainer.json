@@ -1,0 +1,16 @@
+{
+	"image": "svftools/svf",
+	"features": {
+		"ghcr.io/devcontainers/features/rust:1": {
+			"version": "nightly-2021-03-25",
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"streetsidesoftware.code-spell-checker",
+				"ms-vscode.cpptools-extension-pack"
+			]
+		}
+	}
+}
