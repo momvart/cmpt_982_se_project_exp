@@ -1,0 +1,3 @@
+[submodule "klee_smm"]
+	path = klee_smm
+	url = https://github.com/momvart/cmpt_982_se_project_klee_smm
